@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Behonder/PCDTribes/svn/!svn/ver/167/src/pt/iul/pcd/tribes/server/messages
+END
+UsersMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Behonder/PCDTribes/svn/!svn/ver/8/src/pt/iul/pcd/tribes/server/messages/UsersMessage.java
+END
+GamesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Behonder/PCDTribes/svn/!svn/ver/167/src/pt/iul/pcd/tribes/server/messages/GamesList.java
+END
+SelectMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Behonder/PCDTribes/svn/!svn/ver/167/src/pt/iul/pcd/tribes/server/messages/SelectMessage.java
+END
+JoinGameMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Behonder/PCDTribes/svn/!svn/ver/56/src/pt/iul/pcd/tribes/server/messages/JoinGameMessage.java
+END
+TextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Behonder/PCDTribes/svn/!svn/ver/75/src/pt/iul/pcd/tribes/server/messages/TextMessage.java
+END
+CreateGameMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Behonder/PCDTribes/svn/!svn/ver/167/src/pt/iul/pcd/tribes/server/messages/CreateGameMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Behonder/PCDTribes/svn/!svn/ver/56/src/pt/iul/pcd/tribes/server/messages/Message.java
+END
+WinningMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Behonder/PCDTribes/svn/!svn/ver/106/src/pt/iul/pcd/tribes/server/messages/WinningMessage.java
+END
+WorldMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Behonder/PCDTribes/svn/!svn/ver/167/src/pt/iul/pcd/tribes/server/messages/WorldMessage.java
+END
+StartGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Behonder/PCDTribes/svn/!svn/ver/30/src/pt/iul/pcd/tribes/server/messages/StartGame.java
+END
+LoseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Behonder/PCDTribes/svn/!svn/ver/106/src/pt/iul/pcd/tribes/server/messages/LoseMessage.java
+END
+MessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Behonder/PCDTribes/svn/!svn/ver/167/src/pt/iul/pcd/tribes/server/messages/MessageType.java
+END

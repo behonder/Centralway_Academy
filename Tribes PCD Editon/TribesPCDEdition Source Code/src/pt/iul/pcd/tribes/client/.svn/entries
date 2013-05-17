@@ -1,0 +1,89 @@
+10
+
+dir
+182
+https://pl5.projectlocker.com/Behonder/PCDTribes/svn/src/pt/iul/pcd/tribes/client
+https://pl5.projectlocker.com/Behonder/PCDTribes/svn
+
+
+
+2011-11-28T19:56:30.409188Z
+181
+miguel_hugo112@hotmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ee2a5628-0600-4504-b402-18742816be98
+
+ClientFinal.java
+file
+187
+
+
+
+2011-11-30T16:43:22.208000Z
+fa0e6b401610bed16358f9384227a326
+2011-11-30T16:53:00.189436Z
+187
+behonder@hotmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+612
+
+UI
+dir
+
+characters
+dir
+
+combatEngine
+dir
+
+images
+dir
+
+moveEngine
+dir
+
+network
+dir
+
+sounds
+dir
+
+soundsystem
+dir
+
+world2d
+dir
+

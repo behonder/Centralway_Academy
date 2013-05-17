@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Behonder/PCDTribes/svn/!svn/ver/147/src/pt/iul/pcd/tribes/client/sounds/gameSounds
+END
+gameStart.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Behonder/PCDTribes/svn/!svn/ver/117/src/pt/iul/pcd/tribes/client/sounds/gameSounds/gameStart.mp3
+END
+chat_messageReceived.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Behonder/PCDTribes/svn/!svn/ver/191/src/pt/iul/pcd/tribes/client/sounds/gameSounds/chat_messageReceived.mp3
+END
+victory.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Behonder/PCDTribes/svn/!svn/ver/147/src/pt/iul/pcd/tribes/client/sounds/gameSounds/victory.mp3
+END
+defeat.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Behonder/PCDTribes/svn/!svn/ver/147/src/pt/iul/pcd/tribes/client/sounds/gameSounds/defeat.mp3
+END
